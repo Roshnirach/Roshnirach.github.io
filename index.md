@@ -30,7 +30,6 @@ Welcome to my personal developer space! I specialize in building user-centric ap
 - 📱 Flutter + Firebase based mobile apps  
 - 🔄 Excel/SQL data automation with Power Apps  
 - 🛠️ UI/UX design for functional, beautiful apps  
-- 🧼 Exploring product ideas in skincare, nightwear, and lifestyle
  
 ---
  
