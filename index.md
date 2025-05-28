@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rose
+# 👋 Hi, I'm Rosh
  
 🎯 **Software Design Engineer | Flutter & Power Platform Developer | Tech Enthusiast**
  
