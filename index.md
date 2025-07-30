@@ -1,4 +1,4 @@
-<!-- # 👋 Hi, I'm Rosh
+# 👋 Hi, I'm Rosh
  
 🎯 **Software Design Engineer | Flutter & Power Platform Developer | Tech Enthusiast**
  
@@ -45,9 +45,9 @@ Welcome to my personal developer space! I specialize in building user-centric ap
  
 Feel free to connect or explore my projects. Whether you're here to collaborate, learn, or explore, I’m glad you stopped by!
  [GitHub](https://github.com/roshnirach)
- -->
 
-<!DOCTYPE html>
+
+<!-- <!DOCTYPE html>
 <html>
   <head>
     <title>Redirecting...</title>
@@ -65,4 +65,4 @@ window.location.href = "https://play.google.com/store/apps/details?id=app.slavic
   <body>
     <p>Redirecting...</p>
   </body>
-</html>
+</html> -->
